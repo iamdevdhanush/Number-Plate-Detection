@@ -23,9 +23,13 @@ This project is a simple Number Plate Detection system built using **OpenCV** an
 ## 📁 Project Structure
 
 Number-Plate-Detection/
+
 │
+
 ├── Numberplatedetection.py # Main script for plate detection
+
 ├── haarcascade_russian_plate_number.xml # Haar Cascade model for number plates
+
 └── README.md # Project documentation
 
 ## 🚀 How to Run
@@ -50,14 +54,13 @@ python Numberplatedetection.py
 ```
 
 📦 Dependencies
-
+```
 opencv-python
-
+```
 You can install them using pip:
 
-```bash
+```
 pip install -r requirements.txt
-opencv-python
 ```
 
 📌 Notes
@@ -75,8 +78,11 @@ Improve accuracy with deep learning-based detection (YOLO, SSD)
 Support detection in images and video files
 
 📄 License
+
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
+
 Dhanush
+
 GitHub
