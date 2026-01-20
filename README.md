@@ -77,12 +77,6 @@ Improve accuracy with deep learning-based detection (YOLO, SSD)
 
 Support detection in images and video files
 
-📄 License
-
-This project is licensed under the MIT License.
-
-🙋‍♂️ Author
-
 Dhanush
 
 GitHub
